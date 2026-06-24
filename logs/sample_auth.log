@@ -1,1 +1,13 @@
-
+2026-06-24T17:17:48.187904+00:00 ubuntu-victim sshd-session[3839]: Failed password for soc-analyst from 192.168.150.130 port 54416 ssh2
+2026-06-24T17:17:48.345192+00:00 ubuntu-victim sshd-session[3836]: Failed password for soc-analyst from 192.168.150.130 port 54380 ssh2
+2026-06-24T17:17:48.388057+00:00 ubuntu-victim sshd-session[3838]: Failed password for soc-analyst from 192.168.150.130 port 54404 ssh2
+2026-06-24T17:17:48.428600+00:00 ubuntu-victim sshd-session[3842]: Failed password for soc-analyst from 192.168.150.130 port 54422 ssh2
+2026-06-24T17:17:48.543206+00:00 ubuntu-victim sshd-session[3837]: Failed password for soc-analyst from 192.168.150.130 port 54388 ssh2
+2026-06-24T17:19:47.216102+00:00 ubuntu-victim sshd[3260]: Timeout before authentication for connection from 192.168.150.130 to 192.168.150.129, pid = 3836
+2026-06-24T17:19:47.509623+00:00 ubuntu-victim sshd[3260]: Timeout before authentication for connection from 192.168.150.130 to 192.168.150.129, pid = 3839
+2026-06-24T17:19:47.515354+00:00 ubuntu-victim sshd[3260]: srclimit_penalise: 192.168.150.130/32: activating ipv4 penalty of 20 seconds for penalty: exceeded LoginGraceTime
+2026-06-24T17:19:48.267436+00:00 ubuntu-victim sshd[3260]: Timeout before authentication for connection from 192.168.150.130 to 192.168.150.129, pid = 3838
+2026-06-24T17:19:48.512041+00:00 ubuntu-victim sshd[3260]: Timeout before authentication for connection from 192.168.150.130 to 192.168.150.129, pid = 3842
+2026-06-24T17:19:48.537166+00:00 ubuntu-victim sshd[3260]: Timeout before authentication for connection from 192.168.150.130 to 192.168.150.129, pid = 3835
+2026-06-24T17:19:49.224537+00:00 ubuntu-victim sshd[3260]: Timeout before authentication for connection from 192.168.150.130 to 192.168.150.129, pid = 3837
+2026-06-24T17:29:34.696011+00:00 ubuntu-victim sshd-session[3927]: Accepted password for soc-analyst from 192.168.150.130 port 32910 ssh2
